@@ -1,4 +1,4 @@
-# Respiro literário
+# Estatico
 
 ## 📖 Descrição
 Site básico que contém uma introdução simples sobre programação.
