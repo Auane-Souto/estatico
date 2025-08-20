@@ -1,7 +1,5 @@
 # Respiro literário
 
-![Badge de status](https://img.shields.io/badge/status-em%100finalizado-green)
-
 ## 📖 Descrição
 Site básico que contém uma introdução simples sobre programação.
 
